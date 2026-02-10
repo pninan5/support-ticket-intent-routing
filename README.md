@@ -27,9 +27,6 @@ This project uses:
 - **Logistic Regression** classifier (`class_weight="balanced"`)
 
 ## Results
-### Validation
-- Accuracy: **0.996**
-- Macro F1: **0.996**
 
 ### Test
 - Accuracy: **0.996**
