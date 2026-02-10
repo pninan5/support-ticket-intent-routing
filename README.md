@@ -29,9 +29,8 @@ This project uses:
 ## Results
 
 ### Test
-- Accuracy: **0.996**
-- Macro F1: **0.996**
-- Test set misclassifications: **3 / 818**
+-  F1: **0.90**
+
 
 ### Confusion matrix
 The confusion matrix is strongly diagonal (near-perfect routing).  
