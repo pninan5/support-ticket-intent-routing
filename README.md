@@ -8,7 +8,6 @@ Example intents include: `cancel_order`, `get_refund`, `recover_password`, `trac
 **Bitext Sample Customer Service Dataset** (CSV files with predefined splits)
 
 - Training: **6,539** rows
-- Validation: **818** rows
 - Test: **818** rows
 
 Columns present: `utterance`, `intent`, `category`, `tags`  
